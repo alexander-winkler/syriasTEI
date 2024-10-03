@@ -13,19 +13,18 @@ Please note: This text is not a critical edition, it is only a machine-readable 
 
 ## Overview of the books/files
 
-| Book | Filname/Text-ID | PDL |
+ok | Filname/Text-ID | PDL |
 |:---|---|---|
-|Book 1 | [`Perseus:text:2011.01.0831`](Perseus:text:2011.01.0831) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0831)
-|Book 2 | [`Perseus:text:2011.01.1002`](Perseus:text:2011.01.1002) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.1002)
-|Book 3 | [`Perseus:text:2011.01.0250`](Perseus:text:2011.01.0250) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0250)
-|Book 4 | [`Perseus:text:2011.01.0401`](Perseus:text:2011.01.0401) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0401)
-|Book 5 | [`Perseus:text:2011.01.0712`](Perseus:text:2011.01.0712) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0712)
-|Book 6 | [`Perseus:text:2011.01.0411`](Perseus:text:2011.01.0411) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0411)
-|Book 7 | [`Perseus:text:2011.01.0779`](Perseus:text:2011.01.0779) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0779)
-|Book 8 | [`Perseus:text:2011.01.0659`](Perseus:text:2011.01.0659) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0659)
-|Book 9 | [`Perseus:text:2011.01.0578`](Perseus:text:2011.01.0578) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0578)
-|Book 10 | [`Perseus:text:2011.01.0991`](Perseus:text:2011.01.0991) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0991)
-|Book 11 | [`Perseus:text:2011.01.1068`](Perseus:text:2011.01.1068) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.1068)
-|Book 12 | [`Perseus:text:2011.01.0242`](Perseus:text:2011.01.0242) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0242)
-
+|Book 1 | [`Perseus:text:2011.01.0831`](./Perseus:text:2011.01.0831) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0831)
+|Book 2 | [`Perseus:text:2011.01.1002`](./Perseus:text:2011.01.1002) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.1002)
+|Book 3 | [`Perseus:text:2011.01.0250`](./Perseus:text:2011.01.0250) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0250)
+|Book 4 | [`Perseus:text:2011.01.0401`](./Perseus:text:2011.01.0401) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0401)
+|Book 5 | [`Perseus:text:2011.01.0712`](./Perseus:text:2011.01.0712) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0712)
+|Book 6 | [`Perseus:text:2011.01.0411`](./Perseus:text:2011.01.0411) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0411)
+|Book 7 | [`Perseus:text:2011.01.0779`](./Perseus:text:2011.01.0779) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0779)
+|Book 8 | [`Perseus:text:2011.01.0659`](./Perseus:text:2011.01.0659) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0659)
+|Book 9 | [`Perseus:text:2011.01.0578`](./Perseus:text:2011.01.0578) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0578)
+|Book 10 | [`Perseus:text:2011.01.0991`](./Perseus:text:2011.01.0991) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0991)
+|Book 11 | [`Perseus:text:2011.01.1068`](./Perseus:text:2011.01.1068) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.1068)
+|Book 12 | [`Perseus:text:2011.01.0242`](./Perseus:text:2011.01.0242) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0242)
 
