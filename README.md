@@ -14,7 +14,7 @@ Please note: This text is not a critical edition, it is only a machine-readable 
 ## Overview of the books/files
 
 | Book | Wikidata | Filname/Text-ID | HTML | PDL |
-|:---|:---|---|---|
+|:---|:---|---|---|---|
 |Book 1 | [Q130404584](http://www.wikidata.org/entity/Q130404584) | [`Perseus:text:2011.01.0831`](./Perseus:text:2011.01.0831) | [`Perseus:text:2011.01.0831)`](./html/Perseus:text:2011.01.0831.html) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0831)
 |Book 2 | [Q130404585](http://www.wikidata.org/entity/Q130404585) | [`Perseus:text:2011.01.1002`](./Perseus:text:2011.01.1002) | [`Perseus:text:2011.01.1002)`](./html/Perseus:text:2011.01.1002.html) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.1002)
 |Book 3 | [Q130404586](http://www.wikidata.org/entity/Q130404586) | [`Perseus:text:2011.01.0250`](./Perseus:text:2011.01.0250) | [`Perseus:text:2011.01.0250)`](./html/Perseus:text:2011.01.0250.html) | [🔗](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2011.01.0250)
