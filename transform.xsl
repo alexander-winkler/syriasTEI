@@ -36,6 +36,9 @@
                 <div>
                     <xsl:apply-templates select="//div1/l"/>
                 </div>
+                <div>
+<p>Text provided by Perseus Digital Library (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>). Original version available for viewing and download at <a href="http://www.perseus.tufts.edu/hopper/">http://www.perseus.tufts.edu/hopper/</a>.</p>
+</div>
             </body>
         </html>
     </xsl:template>
